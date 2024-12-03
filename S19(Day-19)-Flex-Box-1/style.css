@@ -1,10 +1,13 @@
-.container{
+.flexContainer{
     margin: 10px;
-    width: 800px;
-    height: 350px;
+    width: 350px;
+    height: 200px;
     background-color: cadetblue;
     display: flex;
     flex-wrap: wrap;
+}
+
+.container1{
     flex-direction: row;
     justify-content: start;
     align-items: start;
@@ -12,440 +15,223 @@
 }
 
 .container2{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
     align-items: start; 
 }
 
 .container3{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
     justify-content: end;
     align-items: start; 
 }
 
 .container4{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
     justify-content: start;
     align-items: center; 
 }
 
 .container5{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
     align-items: center; 
 }
 
 .container6{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
     justify-content: end;
     align-items: center; 
 }
 
 .container7{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
     justify-content: start;
     align-items: end; 
 }
 
 .container8{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
     align-items: end; 
 }
 
 .container9{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row;
     justify-content: end;
     align-items: end; 
 }
 
 .container10{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: start;
     align-items: start; 
 }
 
 .container11{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: start;
     align-items: center; 
 }
 
 .container12{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: start;
     align-items: end; 
 }
 
 .container13{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     align-items: start; 
 }
 
 .container14{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     align-items: center; 
 }
 
 .container15{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     align-items: end; 
 }
 
 .container16{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: end;
     align-items: start; 
 }
 
 .container17{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: end;
     align-items: center; 
 }
 
 .container18{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: end;
     align-items: end; 
 }
 
 .container19{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: start;
     align-items: start; 
 }
 
 .container20{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: center;
     align-items: start; 
 }
 
 .container21{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: end;
     align-items: start; 
 }
 
 .container22{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: start;
     align-items: center; 
 }
 
 .container23{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: center;
     align-items: center; 
 }
 .container24{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: end;
     align-items: center; 
 }
 
 .container25{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: start;
     align-items: end; 
 }
 
 .container26{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: center;
     align-items: end; 
 }
 
 .container27{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: row-reverse;
     justify-content: end;
     align-items: end; 
 }
 
 .container28{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column-reverse;
     justify-content: start;
     align-items: start; 
 }
 .container29{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column-reverse;
     justify-content: start;
     align-items: center; 
 }
 
 .container30{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column-reverse;
     justify-content: start;
     align-items: end; 
 }
 
 .container31{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column-reverse;
     justify-content: center;
     align-items: start; 
 }
 
 .container32{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column-reverse;
     justify-content: center;
     align-items: center; 
 }
 
 .container33{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column-reverse;
     justify-content: center;
     align-items: end; 
 }
 
 .container34{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column-reverse;
     justify-content: end;
     align-items: start; 
 }
 
 .container35{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column-reverse;
     justify-content: end;
     align-items: center; 
 }
 
 .container36{
-    margin: 10px;
-    width: 800px;
-    height: 350px;
-    background-color: cadetblue;
-    display: flex;
-    flex-wrap: wrap;
     flex-direction: column-reverse;
     justify-content: end;
     align-items: end; 
 }
 
-
-
-
-
-
-
-
-
-
-
-
 .item{
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     background-color: deeppink;
     color: white;
     border: 2px solid black;
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: center;
+}
+
+.body{
+    display: flex;
 }
